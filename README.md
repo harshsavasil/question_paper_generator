@@ -1,7 +1,8 @@
-# question_paper_generator
-A program that generates question paper by randomly selecting the questions of different difficulties. 
+# Question paper generator
+The program creates three different pools of questions - easy, medium and hard.Then it generates question paper by randomly selecting the questions of different difficulties. Currently, it is using recursive subset sum algorithm to find the question sets for every difficulty.
 
-# to run the program
+
+#### To run the program
 Just clone the repository and move to the project directory
 Then run:
-    python question_paper_generator.py
+    ___python question_paper_generator.py___
