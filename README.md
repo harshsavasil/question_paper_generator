@@ -4,5 +4,5 @@ The program creates three different pools of questions - easy, medium and hard.T
 
 #### To run the program
 Just clone the repository and move to the project directory
-Then run:
+Then run: <br>
     ___python question_paper_generator.py___
